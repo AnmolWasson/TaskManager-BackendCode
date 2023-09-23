@@ -1,0 +1,1 @@
+Creating a backend for a MERN (MongoDB, Express.js, React.js, Node.js) stack task manager project involves setting up the server, defining API routes, connecting to a database, and implementing CRUD operations. 

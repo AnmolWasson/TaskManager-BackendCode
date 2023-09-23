@@ -1,0 +1,18 @@
+{
+  "name": "taskmanagerbackend",
+  "version": "1.0.0",
+  "description": "Creating a backend for a MERN (MongoDB, Express.js, React.js, Node.js) stack task manager project involves setting up the server, defining API routes, connecting to a database, and implementing CRUD operations.",
+  "main": "index.js",
+  "scripts": {
+    "run": "npm app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.2"
+  }
+}
